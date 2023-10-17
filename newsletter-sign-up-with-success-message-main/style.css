@@ -7,13 +7,30 @@
     height: fit-content;
 
 }
+#img{
+    background-color: rgb(12, 12, 12);
+}
 #card{
-    background-color: aqua;
+  
 }
 h1{
     font-weight: 700;
     
 }
+#input{
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+h6{
+    font-weight: 400;
+}
 #1{
     background-color: tomato;
+}
+button{
+   border-radius: 50% ;
+   color: white;
+   background-color: black;
+   padding: 8px;
 }
