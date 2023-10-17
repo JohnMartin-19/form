@@ -1,0 +1,19 @@
+.card{
+    background-color: rgb(10, 10, 10);
+    padding: 40px;
+    margin: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: fit-content;
+
+}
+#card{
+    background-color: aqua;
+}
+h1{
+    font-weight: 700;
+    
+}
+#1{
+    background-color: tomato;
+}
