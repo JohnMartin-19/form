@@ -31,12 +31,15 @@
     height: fit-content;
 
 }
+a{
+    color: white;
+}
 #img{
     background-color: rgb(12, 12, 12);
     
 }
 #card{
-  
+  font-weight: 400;
 }
 h1{
     font-weight: 700;
